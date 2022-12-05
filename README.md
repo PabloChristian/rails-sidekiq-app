@@ -1,24 +1,24 @@
-# README
+<h1>
+  SideKiq App
+</h1>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## 📌 Overview
+This is a job application for Sidekiq and Rails.
 
-Things you may want to cover:
+## 💻 Technologies
+These are all the technologies and patterns used to develop this application
+- [Ruby](https://www.ruby-lang.org/)
+- [Rails](https://rubyonrails.org/)
+- [Sidekiq](https://github.com/mperham/sidekiq)
 
-* Ruby version
+## ⚙️ Deploy Heroku
+This application is deployed on Heroku. You can acess by clicking in the link below:
+https://rails-sidekiq-app.herokuapp.com/
 
-* System dependencies
+To deploy new code, type: "git push heroku main"
 
-* Configuration
+## ⚙️ Executing the Project
+To execute the project, follow the steps below:
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+1. To start the application local, type "rails server".
+2. open browser and access the URL "http://127.0.0.1:3000".
