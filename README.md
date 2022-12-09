@@ -11,12 +11,6 @@ These are all the technologies and patterns used to develop this application
 - [Rails](https://rubyonrails.org/)
 - [Sidekiq](https://github.com/mperham/sidekiq)
 
-## ⚙️ Deploy Heroku
-This application is deployed on Heroku. You can acess by clicking in the link below:
-https://rails-sidekiq-app.herokuapp.com/
-
-To deploy new code, type: "git push heroku main"
-
 ## ⚙️ Executing the Project
 To execute the project, follow the steps below:
 
