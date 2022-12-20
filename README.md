@@ -1,5 +1,5 @@
 <h1>
-  SideKiq App
+  Sidekiq App
 </h1>
 
 ## 📌 Overview
